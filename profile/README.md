@@ -3,7 +3,7 @@
 ## 🧑🏻‍💻 팀원
 <table>
   <tr>
-    <td align="center" colspan="2">
+    <td align="center" colspan="1">
       <b>FE</b>
     </td>
     <td align="center" colspan="2">
@@ -17,7 +17,7 @@
       <img src="https://avatars.githubusercontent.com/u/71318080?v=4" width="120px" height="15%"/>
     </td>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/50029346?v=4" width="120px" height="15%"/>
+      <img src="https://avatars.githubusercontent.com/u/71318080?v=4" width="120px" height="15%"/>
     </td>
   </tr>
   <tr>
