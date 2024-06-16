@@ -11,10 +11,10 @@
   </tr>
   <tr>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/47213853?v=4" width="120px" height="15%"/>
+      <img src="https://avatars.githubusercontent.com/u/117090167?v=4" width="120px" height="15%"/>
     </td>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/71318080?v=4" width="120px" height="15%"/>
+      <img src="https://avatars.githubusercontent.com/u/85926257?v=4" width="120px" height="15%"/>
     </td>
     <td>
       <img src="https://avatars.githubusercontent.com/u/71318080?v=4" width="120px" height="15%"/>
